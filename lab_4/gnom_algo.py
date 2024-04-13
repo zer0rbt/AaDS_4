@@ -15,8 +15,3 @@ def solution(graph: nx.DiGraph, visited_vertices: list) -> list:
         out += solution(graph, visited_vertices + [vertex])
     return out
 
-
-# Пример использования:
-G = nx.DiGraph()
-G.add_edges_from([(0, 1), (1, 2), (0, 3)])
-print(solution(G, [0]))
