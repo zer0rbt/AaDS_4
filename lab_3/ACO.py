@@ -4,7 +4,7 @@ from networkx import DiGraph
 
 
 class ACO:
-    def __init__(self, graph: nx.DiGraph, num_ants: int, alpha: float, betta: float, evaporation_rate: float):
+    def __init__(self, graph: nx.DiGraph, num_ants: int=1, alpha: float=2, betta: float=3, evaporation_rate: float=0.2):
         self.graph = graph
         self.num_ants = num_ants
         self.alpha = alpha
@@ -12,6 +12,7 @@ class ACO:
         self.evaporation_rate = evaporation_rate
         self.best_path = None
         self.best_path_length = float('inf')
+        self.ant = Ant(self.graph, alpha=self.alpha, betta=self.betta, evaporation_rate=self.evaporation_rate)
 
     def to_DiGraph(self):
         return self.convert_path_to_graph(self.best_path)
@@ -21,14 +22,23 @@ class ACO:
             self.iteration()
         return self.best_path
 
+    def solve(self, args: dict = {}):
+        self.num_ants = args['num_ants']
+        self.alpha = args['alpha']
+        self.betta = args['betta']
+        self.evaporation_rate = args['evaporation_rate']
+        iterations = args['iterations']
+        path = self.run(iterations)
+        self.length = self.calculate_path_length(path)
+        return path
+
     def iteration(self):
         for ant_index in range(self.num_ants):
-            ant = Ant(self.graph, alpha=self.alpha, betta=self.betta, evaporation_rate=self.evaporation_rate)
-            path, path_length = ant.find_hamiltonian_cycle()
+            path, path_length = self.ant.find_hamiltonian_cycle()
             if path_length < self.best_path_length:
                 self.best_path = path
                 self.best_path_length = path_length
-            ant.update_pheromones(path_length)
+            self.ant.update_pheromones(path_length)
 
     def get_best_path(self):
         return self.best_path
@@ -43,6 +53,12 @@ class ACO:
         # Добавляем ребро между последней и первой вершинами, чтобы закрыть цикл
         return path_graph
 
+    def calculate_path_length(self, path):
+        length = 0
+        for i in range(len(path) - 1):
+            length += self.graph[path[i]][path[i + 1]]['weight']
+        return length
+
 
 class Ant:
     def __init__(self, graph: nx.DiGraph, alpha: float, betta: float, evaporation_rate: float):
@@ -50,6 +66,7 @@ class Ant:
         self.betta = betta
         self.graph = graph
         self.path = []
+        self.modified = False
         self.evaporation_rate = evaporation_rate
         self.pheromones = {(u, v): 1.0 for u, v in graph.edges()}
 
@@ -91,26 +108,38 @@ class Ant:
             edge = (self.path[i], self.path[i + 1])
             self.pheromones[edge] += 1.0 / path_length
 
+    def convert(self):
+        out = RationalAnt(self.graph, self.alpha, self.betta, self.evaporation_rate)
+        out.pheromones = self.pheromones
+        out.path = self.path
+        return out
+
 
 class RationalAnt(Ant):
     def __init__(self, graph, alpha, betta, evaporation_rate):
         super().__init__(graph, alpha, betta, evaporation_rate)
         self.alpha /= 4
         self.betta *= 2
+        self.modified = True
+
+    def convert(self):
+        out = Ant(self.graph, self.alpha * 4, self.betta / 2, self.evaporation_rate)
+        out.pheromones = self.pheromones
+        out.path = self.path
+        return out
+
 
 
 class MACO(ACO):
-    def __init__(self, graph: nx.DiGraph, num_ants: int, alpha: float, betta: float, evaporation_rate: float):
+    def __init__(self, graph: nx.DiGraph, num_ants: int=1, alpha: float=2, betta: float=3, evaporation_rate: float=0.2):
         super().__init__(graph, num_ants, alpha, betta, evaporation_rate)
 
     def iteration(self):
         for ant_index in range(self.num_ants):
-            if random.random() > 0.3:
-                ant = Ant(self.graph, alpha=self.alpha, betta=self.betta, evaporation_rate=self.evaporation_rate)
-            else:
-                ant = RationalAnt(self.graph, alpha=self.alpha, betta=self.betta, evaporation_rate=self.evaporation_rate)
-            path, path_length = ant.find_hamiltonian_cycle()
+            if random.random() > (0.75 - int(self.ant.modified) / 2):
+                self.ant = self.ant.convert()
+            path, path_length = self.ant.find_hamiltonian_cycle()
             if path_length < self.best_path_length:
                 self.best_path = path
                 self.best_path_length = path_length
-            ant.update_pheromones(path_length)
+            self.ant.update_pheromones(path_length)

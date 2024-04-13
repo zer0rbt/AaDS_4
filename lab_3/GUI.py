@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QPushButton,
     QGroupBox, QHBoxLayout
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 
-from SA import SA, MSA
+from lab_3.ACO import ACO, MACO
 
 
 class GraphWindow(QMainWindow):
@@ -53,14 +53,22 @@ class GraphWindow(QMainWindow):
         self.new_lineedits_groupbox = QGroupBox("Параметры генерации")
         self.new_lineedits_layout = QVBoxLayout(self.new_lineedits_groupbox)
 
-        label = QLabel(f"Начальная температура")
+        label = QLabel(f"Количество муравьев")
         self.line_edit1 = QLineEdit()
         self.new_lineedits_layout.addWidget(label)
         self.new_lineedits_layout.addWidget(self.line_edit1)
-        label = QLabel(f"Скорость остывания")
+        label = QLabel(f"Параметр $_alpha$")
         self.line_edit2 = QLineEdit()
         self.new_lineedits_layout.addWidget(label)
         self.new_lineedits_layout.addWidget(self.line_edit2)
+        label = QLabel(f"Параметр $_betta$")
+        self.line_edit3 = QLineEdit()
+        self.new_lineedits_layout.addWidget(label)
+        self.new_lineedits_layout.addWidget(self.line_edit3)
+        label = QLabel(f"Испарение феромона")
+        self.line_edit4 = QLineEdit()
+        self.new_lineedits_layout.addWidget(label)
+        self.new_lineedits_layout.addWidget(self.line_edit4)
         label = QLabel(f"Количество итераций")
         self.line_edit6 = QLineEdit()
         self.new_lineedits_layout.addWidget(label)
@@ -79,6 +87,8 @@ class GraphWindow(QMainWindow):
 
         self.line_edit1.setText(str(20))
         self.line_edit2.setText(str(2))
+        self.line_edit3.setText(str(3))
+        self.line_edit4.setText(str(0.2))
         self.line_edit6.setText(str(10))
 
     def add_nodes(self):
@@ -94,10 +104,12 @@ class GraphWindow(QMainWindow):
         self.adjacency_input.setText("")
 
     def draw_graph(self):
-        temp = int(self.line_edit1.text())
-        cooling_rate = float(self.line_edit2.text())
+        ants_num = int(self.line_edit1.text())
+        alpha = float(self.line_edit2.text())
+        betta = float(self.line_edit3.text())
+        evap_rate = float(self.line_edit4.text())
 
-        solver = SA(self.graph, temp, cooling_rate)
+        solver = ACO(self.graph, ants_num, alpha, betta, evap_rate)
         solution = solver.run(int(self.line_edit6.text()))
         self.result_graph = nx.DiGraph(solver.to_DiGraph())  # Создание копии графа для отображения в новом окне
         self.graph_window = GraphWindowWithCanvas(self.result_graph, 'Алгоритм "as is"')
@@ -105,7 +117,7 @@ class GraphWindow(QMainWindow):
         self.graph_window.setWindowTitle(f"Длинна якобы минимального ГЦ: {solver.best_path_length}")
         self.graph_window.show()
 
-        solver = MSA(self.graph, temp, cooling_rate)
+        solver = MACO(self.graph, ants_num, alpha, betta, evap_rate)
         solution = solver.run(int(self.line_edit6.text()))
         self.result_graph = nx.DiGraph(solver.to_DiGraph())  # Создание копии графа для отображения в новом окне
         self.sgraph_window = GraphWindowWithCanvas(self.result_graph, 'Модифицированный алгоритм')

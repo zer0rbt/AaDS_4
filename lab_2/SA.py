@@ -1,21 +1,3 @@
-'''import networkx as nx
-import random
-
-class SA:
-    def __init__(self):
-        pass
-
-
-    def run(self, iterations: int)->list:
-        for _ in range(iterations):
-            self.iteration()
-        return self.best_path # Возвращает лист с названиями вершин. [0] элемент == [-1].
-
-    def iteration(self):
-        pass
-
- '''
-
 import networkx as nx
 import random
 import math
@@ -29,11 +11,20 @@ class SA:
         self.best_path_length = self.calculate_path_length(self.best_path)
         self.temperature = initial_temperature
         self.cooling_rate = cooling_rate
+        self.length = self.best_path_length
 
     def run(self, iterations: int) -> list:
         for _ in range(iterations):
             self.iteration()
         return self.best_path
+
+    def solve(self, args: dict) -> list:
+        self.temperature = args['temperature']
+        self.cooling_rate = args['cooling_rate']
+        path = self.run(args['iterationss'])
+        self.best_path_length = self.calculate_path_length(path)
+        self.length = self.best_path_length
+        return path
 
     def iteration(self):
         # Перемешиваем текущий путь
@@ -96,7 +87,6 @@ class MSA(SA):
             self.best_path = self.current_path[:]
             self.best_path_length = current_path_length
 
-        self.temperature *= self.cooling_rate
 
     def greedy_initial_solution(self):
         current_node = random.choice(list(self.graph.nodes()))
@@ -110,4 +100,4 @@ class MSA(SA):
         return current_path
 
     def adaptive_cooling(self, iteration):
-        return self.temperature / (1 + iteration)
+        return self.temperature / math.log(2 + iteration, 2)

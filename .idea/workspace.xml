@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80c34fb6-0c70-4227-b4dc-10079a22d0dd" name="Changes" comment="XD">
-      <change afterPath="$PROJECT_DIR$/.idea/AaDS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_1/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_1/NNA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_1/graph_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_1/table_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_4/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_4/gnom_algo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AaDS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AaDS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/ACO.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_3/ACO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_2/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_3/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_3/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_3/SA.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/SA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,35 +33,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zer0rbt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zer0rbt/AaDS_3semester&quot;,
+    &quot;accountId&quot;: &quot;4ae998df-c044-47f9-952d-8e7815940894&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dRZ8PzIW00Zoa24ihhQZFCxVlE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.GUI (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.GUI (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.digraph.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.gnom_algo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph_gen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.table_maker.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ПК/PycharmProjects/AlgoSem2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zer-oRBT\AaDS\lab_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_2" />
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_3" />
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2" />
       <recent name="C:\Users\zer-oRBT\AaDS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GUI">
-    <configuration name="ClosestNeighborAlgo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.table_maker">
+    <configuration name="GUI (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_1/ClosestNeighborAlgo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,8 +112,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GUI (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_3\GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -78,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_3/GUI.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_2\GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,20 +158,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="digraph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_1/GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes/digraph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +183,7 @@
     </configuration>
     <configuration name="graph_gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -131,8 +204,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="table_maker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -144,7 +218,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_1/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_1/table_maker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,20 +227,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.digraph" />
+      <item itemvalue="Python.graph_gen" />
+      <item itemvalue="Python.table_maker" />
+      <item itemvalue="Python.GUI (2)" />
+      <item itemvalue="Python.GUI (3)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GUI" />
-        <item itemvalue="Python.ClosestNeighborAlgo" />
-        <item itemvalue="Python.graph_gen" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.table_maker" />
         <item itemvalue="Python.GUI (2)" />
+        <item itemvalue="Python.GUI (3)" />
+        <item itemvalue="Python.graph_gen" />
+        <item itemvalue="Python.digraph" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -184,6 +266,12 @@
       <workItem from="1711189577327" duration="604000" />
       <workItem from="1711536740335" duration="10104000" />
       <workItem from="1712385879574" duration="3086000" />
+      <workItem from="1712676460122" duration="835000" />
+      <workItem from="1712677316794" duration="28000" />
+      <workItem from="1712677350726" duration="1794000" />
+      <workItem from="1712684805270" duration="14062000" />
+      <workItem from="1712786342080" duration="10239000" />
+      <workItem from="1712965522971" duration="6517000" />
     </task>
     <servers />
   </component>
@@ -216,5 +304,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="XD" />
     <option name="LAST_COMMIT_MESSAGE" value="XD" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoSem2$gnom_algo.coverage" NAME="gnom_algo Coverage Results" MODIFIED="1712692654656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_4" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$GUI__2_.coverage" NAME="GUI (2) Coverage Results" MODIFIED="1712970302618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$digraph.coverage" NAME="digraph Coverage Results" MODIFIED="1712787500087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$GUI__3_.coverage" NAME="GUI (3) Coverage Results" MODIFIED="1712793961814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_3" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$GUI__1_.coverage" NAME="GUI (1) Coverage Results" MODIFIED="1712693785569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_4" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$table_maker.coverage" NAME="table_maker Coverage Results" MODIFIED="1712974501249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_1" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$graph_gen.coverage" NAME="graph_gen Coverage Results" MODIFIED="1712793951808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_1" />
   </component>
 </project>
