@@ -4,19 +4,274 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80c34fb6-0c70-4227-b4dc-10079a22d0dd" name="Changes" comment="XD">
-      <change afterPath="$PROJECT_DIR$/lab_1/NNA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_1/graph_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_1/table_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_4/GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_4/gnom_algo.py" afterDir="false" />
+    <list default="true" id="80c34fb6-0c70-4227-b4dc-10079a22d0dd" name="Changes" comment="XDDDDDDDDDDDDDDDDDDDDD">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/TDPLS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/person/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Educate/pet/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/person/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/Test/pet/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/person/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/10/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/11/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/12/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/13/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/14/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/15/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/16/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/17/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/18/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/19/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/20/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/21/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/22/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/23/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/24/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/25/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/26/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/27/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/28/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/29/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/30/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/31/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/32/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/33/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/34/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/35/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/36/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/37/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/38/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/39/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/4/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/40/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/41/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/42/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/5/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/6/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/7/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/8/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/dogs/train/pet/9/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/helpers/apmath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/helpers/classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/helpers/correlation_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/helpers/image_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/tdcca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/tdpls/tdpls_parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5/ui_entry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AaDS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AaDS.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_2/ACO.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_3/ACO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_2/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_3/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_3/GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_3/SA.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_2/SA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,64 +309,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.GUI (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.GUI (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.GUI (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.digraph.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.gnom_algo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.graph_gen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.table_maker.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ПК/PycharmProjects/AlgoSem2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.GUI (1).executor": "Debug",
+    "Python.GUI (2).executor": "Run",
+    "Python.GUI (3).executor": "Run",
+    "Python.GUI.executor": "Run",
+    "Python.digraph.executor": "Debug",
+    "Python.example.executor": "Run",
+    "Python.gnom_algo.executor": "Run",
+    "Python.graph_gen.executor": "Run",
+    "Python.helper.executor": "Run",
+    "Python.table_maker.executor": "Run",
+    "Python.ui_entry.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ПК/PycharmProjects/AlgoSem2/lab_5/dogs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_5\dogs" />
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_5" />
       <recent name="C:\Users\zer-oRBT\AaDS\lab_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_5\helpers" />
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_5" />
+      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_1" />
       <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_2" />
       <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_3" />
-      <recent name="C:\Users\ПК\PycharmProjects\AlgoSem2" />
-      <recent name="C:\Users\zer-oRBT\AaDS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.table_maker">
-    <configuration name="GUI (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AaDS" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_2/GUI.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.GUI">
     <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
       <option name="ENV_FILES" value="" />
@@ -121,12 +361,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ПК\PycharmProjects\AlgoSem2\lab_3\GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_5/GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +398,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="digraph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,12 +407,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes/digraph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_5/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +421,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="graph_gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="helper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AaDS" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,12 +430,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_5/dogs/Educate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_1/graph_gen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_5/dogs/Educate/helper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,28 +467,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ui_entry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AaDS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_5/ui_entry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.digraph" />
-      <item itemvalue="Python.graph_gen" />
+      <item itemvalue="Python.helper" />
+      <item itemvalue="Python.example" />
+      <item itemvalue="Python.ui_entry" />
+      <item itemvalue="Python.GUI" />
       <item itemvalue="Python.table_maker" />
-      <item itemvalue="Python.GUI (2)" />
-      <item itemvalue="Python.GUI (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.helper" />
+        <item itemvalue="Python.ui_entry" />
+        <item itemvalue="Python.example" />
         <item itemvalue="Python.table_maker" />
-        <item itemvalue="Python.GUI (2)" />
-        <item itemvalue="Python.GUI (3)" />
-        <item itemvalue="Python.graph_gen" />
-        <item itemvalue="Python.digraph" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -271,8 +534,20 @@
       <workItem from="1712677350726" duration="1794000" />
       <workItem from="1712684805270" duration="14062000" />
       <workItem from="1712786342080" duration="10239000" />
-      <workItem from="1712965522971" duration="6517000" />
+      <workItem from="1712965522971" duration="6919000" />
+      <workItem from="1713294328854" duration="21000" />
+      <workItem from="1715353449085" duration="13301000" />
+      <workItem from="1715990637939" duration="8151000" />
     </task>
+    <task id="LOCAL-00001" summary="XDDDDDDDDDDDDDDDDDDDDD">
+      <option name="closed" value="true" />
+      <created>1712974806109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712974806109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,15 +578,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="XD" />
-    <option name="LAST_COMMIT_MESSAGE" value="XD" />
+    <MESSAGE value="XDDDDDDDDDDDDDDDDDDDDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="XDDDDDDDDDDDDDDDDDDDDD" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgoSem2$gnom_algo.coverage" NAME="gnom_algo Coverage Results" MODIFIED="1712692654656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_4" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$helper.coverage" NAME="helper Coverage Results" MODIFIED="1715998904648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_5/dogs/Educate" />
     <SUITE FILE_PATH="coverage/AlgoSem2$GUI__2_.coverage" NAME="GUI (2) Coverage Results" MODIFIED="1712970302618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_2" />
     <SUITE FILE_PATH="coverage/AlgoSem2$digraph.coverage" NAME="digraph Coverage Results" MODIFIED="1712787500087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Program Files/Python37/Lib/site-packages/networkx/classes" />
     <SUITE FILE_PATH="coverage/AlgoSem2$GUI__3_.coverage" NAME="GUI (3) Coverage Results" MODIFIED="1712793961814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_3" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$ui_entry.coverage" NAME="ui_entry Coverage Results" MODIFIED="1715996489597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_5" />
     <SUITE FILE_PATH="coverage/AlgoSem2$GUI__1_.coverage" NAME="GUI (1) Coverage Results" MODIFIED="1712693785569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_4" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1716000280613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_5" />
     <SUITE FILE_PATH="coverage/AlgoSem2$table_maker.coverage" NAME="table_maker Coverage Results" MODIFIED="1712974501249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_1" />
     <SUITE FILE_PATH="coverage/AlgoSem2$graph_gen.coverage" NAME="graph_gen Coverage Results" MODIFIED="1712793951808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_1" />
+    <SUITE FILE_PATH="coverage/AlgoSem2$example.coverage" NAME="example Coverage Results" MODIFIED="1715368302654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_5" />
   </component>
 </project>
